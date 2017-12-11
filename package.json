@@ -1,0 +1,19 @@
+{
+    "name": "vscode-vue-powerpack",
+    "displayName": "VS Code Vue Powerpack",
+    "description": "VS Code extensions for Vue.js projects",
+    "icon": "icon.png",
+    "version": "0.0.1",
+    "publisher": "mattpjohnson",
+    "engines": {
+        "vscode": "^1.18.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionDependencies": [ 
+        "mattpjohnson.vscode-web-powerpack",
+        "octref.vetur",
+        "dariofuzinato.vue-peek"
+    ]
+}
