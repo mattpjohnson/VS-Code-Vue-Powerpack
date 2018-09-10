@@ -11,6 +11,13 @@
   "categories": [
     "Extension Packs"
   ],
+  "repository": {
+    "url": "https://github.com/mattpjohnson/vscode-vue-powerpack"
+  },
+  "homepage": "https://github.com/mattpjohnson/vscode-vue-powerpack",
+  "bugs": {
+    "url": "https://github.com/mattpjohnson/vscode-vue-powerpack/issues"
+  },
   "extensionDependencies": [
     "mattpjohnson.vscode-web-powerpack",
     "octref.vetur",
